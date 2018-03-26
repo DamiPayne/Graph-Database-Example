@@ -6,8 +6,8 @@ A simple microblog tutorial, example found here [Flask](http://flask.pocoo.org/d
 Make sure [Neo4j](http://neo4j.com/download/other-releases/) is running first!
 
 **If you're on Neo4j >= 2.2, make sure to set environment variables `NEO4J_USERNAME` and `NEO4J_PASSWORD`
-to your username and password, respectively
-If you are using Neo4j >= 3.0 you may need to update your localhost file:**
+to your username and password, respectively.
+Also, if you are using Neo4j >= 3.0 you may need to update your localhost file:**
 
 ```
 $ export NEO4J_USERNAME=username
